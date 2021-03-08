@@ -315,10 +315,5 @@
 ## 全局函数
 待更新~
 
-- [**时间复杂度到底怎么算**](https://www.cnblogs.com/lazyegg/p/12572421.html)
-
-![article-bg-photos/u_06444357027/2340fb30-7c93-11eb-af5c-f37e4108aeed.png](https://blog.cxmmao.com/blog-images/article-bg-photos/u_06444357027/2340fb30-7c93-11eb-af5c-f37e4108aeed.png)
-
-- [**前端该如何准备数据结构和算法**](https://juejin.cn/post/6844903919722692621#heading-4)
-
-![article-bg-photos/u_06444357027/49390610-7c94-11eb-af5c-f37e4108aeed.png](https://blog.cxmmao.com/blog-images/article-bg-photos/u_06444357027/49390610-7c94-11eb-af5c-f37e4108aeed.png)
+## 下载地址
+[点击下载](https://github.com/ccxm/web-cli/tree/master/css)
