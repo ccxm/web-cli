@@ -232,7 +232,7 @@
 ```
 
 - 向左
-```
+```css
 .g-triangle-left {
     @extend .g-triangle-horizontal;
 
@@ -241,7 +241,7 @@
 ```
 
 - 向右
-```
+```css
 .g-triangle-right {
     @extend .g-triangle-horizontal;
 
